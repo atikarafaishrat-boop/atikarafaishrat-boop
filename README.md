@@ -7,7 +7,7 @@ I am a student from Bangladesh with a passion for building logical solutions and
 - 🎓 **Education:** Pursuing HSC (Science) - Class of 2027
 - 💻 **Currently Learning:** Harvard CS50x (C, Python, SQL)
 - ⚡ **Fun Fact:** Former Captain of my School Debate Team, Trillingual
-- 🎯 **Goal:** To build impactful software and t solve real world problems through tech
+- 🎯 **Goal:** To build impactful software and to solve real world problems through tech
 
 ### 🛠️ Tech Stack & Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
